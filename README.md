@@ -1,4 +1,10 @@
-## Hi there 👋
+## Duane Moore
+
+I’ve spent my career at the frontier where new technology meets consequential real-world systems: early online collaboration and distance learning, fully immersive virtual reality, autonomous vehicles, Air Force command-and-control, large-scale data platforms for space situational awareness, secure payments and point-of-sale, mobile computing, automation systems for [https://channel19.io|long-haul trucking] and [https://atlascdt.com/|residential real estate], and AI-native products, including a [https://cantito.ai/|modern language learning app]. I’ve worked across the stack: from embedded systems and distributed infrastructure to developer platforms, desktop/web/mobile apps, and product architecture, and across the org chart, as an engineer, architect, executive, and founder. I go deep into technical challenges and solutions, bring clarity to hard problems, and help build systems, teams, and products that hold up when the stakes are real.
+
+## How to reach me
+
+You can find me on X/Twitter at [https://x.com/Duane1024|X/Twitter]
 
 <!--
 **duane1024/duane1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

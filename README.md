@@ -4,7 +4,7 @@ I’ve spent my career at the frontier where new technology meets consequential 
 
 ## How to reach me
 
-You can find me on X/Twitter at [https://x.com/Duane1024|X/Twitter]
+You can find me on [X/Twitter](https://x.com/Duane1024), [Instagram](https://www.instagram.com/duane1024), [Reddit](https://www.reddit.com/user/duane1024/), [LinkedIn](https://www.linkedin.com/in/duane1024/), or here on GitHub, assuming you don't already have my email or phone number.
 
 <!--
 **duane1024/duane1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
